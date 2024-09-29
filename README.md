@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Kenya Peterson 👋
+
+### 📚 I am currently learning Software Engineering with TripleTen
+#### As a creative 🖌 individual and aspiring world traveler 🛫 I consistently crave expansion in learning new things. Knowledge is growth 🌱.
+
 
 <!--
 **Kenya-P/Kenya-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
