@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kenya Peterson</h1>
-<h3 align="center">I am currently a Student with TripleTen.</h3>
+<h3 align="center">I am a graduate with TripleTen, a global leading tech bootcamp.</h3>
 
-#### 🌱 I’m actively learning **Software Engineering.**
+#### 🌱 I’m a Full-Stack **Software Engineer.**
 #### As a creative 🖌 individual and aspiring world traveler 🛫 I consistently crave expansion in learning new things. 
 #### 📚 Knowledge is growth.
 
